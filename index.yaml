@@ -3,7 +3,7 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-12T11:11:43.487514791Z"
+    created: "2021-10-12T11:15:36.474986539Z"
     dependencies:
     - condition: mariadb.enabled
       name: mariadb
@@ -17,6 +17,6 @@ entries:
     name: mychart
     type: application
     urls:
-    - https://schlapzz.github.io/mychart/docs/mychart-0.1.0.tgz
+    - https://schlapzz.github.io/mycharts/docs/mychart-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-12T11:11:43.483278452Z"
+generated: "2021-10-12T11:15:36.470678489Z"
